@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="button">Calcular Promedio</string>
+    <string name="button2">Acerca De</string>
+    <string name="button3">Ejecutar</string>
+    <string name="button4">Salir</string>
+    <string name="tv1">Calcular Notas</string>
+    <string name="tv2">Seguridad Informatica</string>
+    <string name="tv4">PMI</string>
+    <string name="tv6">Estructura De Datos</string>
+    <string name="tv8">Desarrollo Movil Multiplataforma</string>
+    <string name="Notas">Notas</string>
+    <string name="tv10">Silvia Velasquez</string>
+</resources>

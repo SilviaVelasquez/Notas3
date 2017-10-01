@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Notas">Notes</string>
+    <string name="tv1">to calculate notes</string>
+    <string name="tv2">Informatic security</string>
+    <string name="tv4">Pmi</string>
+    <string name="tv6">data structure</string>
+    <string name="tv8">multiplatform mobile development</string>
+    <string name="tv10">Silvia Velasqquez</string>
+    <string name="button">calculate average</string>
+    <string name="button2">about</string>
+    <string name="button3">run</string>
+    <string name="button4">get out</string>
+    <string name="app_name">Notes</string>
+
+</resources>
